@@ -1,6 +1,8 @@
-Lucas Rocha Leandro
+Lucas Rocha Leandr'
 CPF: 02448852227
 END. Av. igarape de manaus 
 Sexo = Masculino
 Tem filhos = N
 Comida favorita = Pizza
+oi
+nacionalidade= brasil
